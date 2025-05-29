@@ -1,7 +1,6 @@
 import * as React from "react"
-import { Github, Globe } from "lucide-react"
+import { Globe } from "lucide-react"
 import Link from "next/link"
-import Image from "next/image"
 import {
   Sidebar,
   SidebarContent,
