@@ -24,7 +24,7 @@ export const Assistant = () => {
             <Breadcrumb>
               <BreadcrumbList>
                 <BreadcrumbItem className="hidden md:block">
-                  <BreadcrumbLink href="#">
+                  <BreadcrumbLink href="https://gemini.google.com">
                   Powered by Google
                   </BreadcrumbLink>
                 </BreadcrumbItem>
